@@ -1,30 +1,30 @@
 ## メイントピック
 
 - JavaScript
-  - [https://www.codecademy.com/learn/introduction-to-javascript](JS学習サイト 英語)
-  - [https://prog-8.com/languages/es6](JS学習サイト 日本語)
+  - [JS学習サイト 英語](https://www.codecademy.com/learn/introduction-to-javascript)
+  - [JS学習サイト 日本語](https://prog-8.com/languages/es6)
 - React
-  - [https://reactjs.org/tutorial/tutorial.html](React公式チュートリアル 英語)
-  - [http://basic-react.axlight.com](初心者向けReact基礎教材 日本語)
+  - [React公式チュートリアル 英語](https://reactjs.org/tutorial/tutorial.html)
+  - [初心者向けReact基礎教材 日本語](http://basic-react.axlight.com)
 - Redux
-  - [https://redux.js.org/basics](Redux公式ドキュメント 英語)
-  - [http://basic-redux.axlight.com](初心者向けRedux基礎教材 日本語)
+  - [Redux公式ドキュメント 英語](https://redux.js.org/basics)
+  - [初心者向けRedux基礎教材 日本語](http://basic-redux.axlight.com)
 - Apollo GraphQL
-  - [https://www.apollographql.com/docs/tutorial/introduction.html](Apollo公式チュートリアル 英語)
+  - [Apollo公式チュートリアル 英語](https://www.apollographql.com/docs/tutorial/introduction.html)
 - Expo React Native
-  - [https://docs.expo.io/versions/latest/react-native/tutorial](Expo公式チュートリアル 英語)
+  - [Expo公式チュートリアル 英語](https://docs.expo.io/versions/latest/react-native/tutorial)
 - TypeScript
-  - [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](TypeScript公式ハンドブック 英語)
+  - [TypeScript公式ハンドブック 英語](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 - TensorFlow.js
-  - [https://js.tensorflow.org/tutorials/core-concepts.html](TensorFlow.js公式チュートリアル 英語)
+  - [TensorFlow.js公式チュートリアル 英語](https://js.tensorflow.org/tutorials/core-concepts.html)
 - Electron
-  - [https://electronjs.org/docs](Electron公式ドキュメント 英語)
+  - [Electron公式ドキュメント 英語](https://electronjs.org/docs)
 
 ## サブトピック
 
 - Golang
-  - [https://go-tour-jp.appspot.com](Go言語公式ツアー 日本語)
+  - [Go言語公式ツアー 日本語](https://go-tour-jp.appspot.com)
 - ReasonML
-  - [https://reasonml.github.io](ReasonML公式サイト 英語)
+  - [ReasonML公式サイト 英語](https://reasonml.github.io)
 - Python
-  - [https://wiki.python.org/moin/BeginnersGuide](Python公式ガイド 英語)
+  - [Python公式ガイド 英語](https://wiki.python.org/moin/BeginnersGuide)
