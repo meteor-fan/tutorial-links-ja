@@ -19,6 +19,43 @@
 
 参考サイト: https://ja.reactjs.org/docs/hooks-intro.html
 
+#### 確認ポイント
+
+1. 
+2. 
+3. 
+
+#### 備考
+
+- 
+- 
+
 ### C. React Redux
 
+参考サイト: https://react-redux.js.org
+
+#### 確認ポイント
+
+1. 
+2. 
+3. 
+
+#### 備考
+
+- 
+- 
+
 ### D. React Tracked
+
+参考サイト: https://react-tracked.js.org
+
+#### 確認ポイント
+
+1. 
+2. 
+3. 
+
+#### 備考
+
+- 
+- 
