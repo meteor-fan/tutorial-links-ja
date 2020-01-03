@@ -39,7 +39,7 @@
 2. [Redux](https://redux.js.org/introduction/getting-started)のドキュメントを参照し、概要を理解する
 3. [React Redux Hooks API](https://react-redux.js.org/api/hooks)を理解する
 4. Hooks APIを使って何か作ってみる
-5. [Redux Style Guide](https://redux.js.org/style-guide/style-guide)を参照する
+5. [Redux Style Guide](https://redux.js.org/style-guide/style-guide)を大まかに理解する
 
 #### 備考
 
@@ -52,11 +52,13 @@
 
 #### 確認ポイント
 
-1. 
-2. 
-3. 
+1. [Quick Start](https://react-tracked.js.org/docs/quick-start)で動作を確認する
+2. [Basic Tutorial](https://react-tracked.js.org/docs/tutorial-01)を動作させ理解する
+3. [Intermediate Tutorial](https://react-tracked.js.org/docs/tutorial-03)を動作させ理解する
+4. 学んだことを応用して何か作ってみる
+5. [Recipes](https://react-tracked.js.org/docs/recipes)を参照し、概要を理解する
 
 #### 備考
 
-- 
-- 
+- Global stateとして使う場合は、React Reduxの概念や考え方が参考になる
+- React Trackedの利用法は、Pure React(Context + Hooks)での場合と同様のため、React Trackedを使わないとしても応用できる
