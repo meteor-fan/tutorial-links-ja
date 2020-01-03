@@ -21,9 +21,10 @@
 
 #### 確認ポイント
 
-1. 
-2. 
-3. 
+1. [1](https://ja.reactjs.org/docs/hooks-intro.html), [2](https://ja.reactjs.org/docs/hooks-overview.html), [3](https://ja.reactjs.org/docs/hooks-state.html), [4](https://ja.reactjs.org/docs/hooks-effect.html), [5](https://ja.reactjs.org/docs/hooks-rules.html)を読んで理解する
+2. 基本のフックを使って簡単なアプリを作ってみる
+3. [6](https://ja.reactjs.org/docs/hooks-custom.html), [7](https://ja.reactjs.org/docs/hooks-reference.html), [8](https://ja.reactjs.org/docs/hooks-faq.html)に目を通す
+4. カスタムフックを作ってみる（上記で作ったアプリを元にしても良い）
 
 #### 備考
 
