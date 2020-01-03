@@ -13,7 +13,6 @@
 #### 備考
 
 - codepenの代わりにcodesandboxを使用することがおすすめ
-- 
 
 ### B. React Hooks
 
@@ -29,7 +28,6 @@
 #### 備考
 
 - クラスコンポーネントで書かれたコードをフックを使って関数コンポーネントに書き直してみることは学習や実務では意味がある（しかし、理解する上では対応づけは必須ではない）
-- 
 
 ### C. React Redux
 
@@ -37,14 +35,16 @@
 
 #### 確認ポイント
 
-1. 
-2. 
-3. 
+1. [Basic Tutorial](https://react-redux.js.org/introduction/basic-tutorial)を大まかに理解する
+2. [Redux](https://redux.js.org/introduction/getting-started)のドキュメントを参照し、概要を理解する
+3. [React Redux Hooks API](https://react-redux.js.org/api/hooks)を理解する
+4. Hooks APIを使って何か作ってみる
+5. [Redux Style Guide](https://redux.js.org/style-guide/style-guide)を参照する
 
 #### 備考
 
-- 
-- 
+- Hooks以前の書き方は学ぶ必要はないが、現状ではいいドキュメント構成になっていない
+- Reduxを活用するには、DevToolsの利用やmiddlewareの理解がポイントである（今回のカリキュラム外）
 
 ### D. React Tracked
 
